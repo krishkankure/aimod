@@ -1,4 +1,4 @@
-# Foobar
+# AIMOD
 
 AIMOD is a easy-to-configure simple content moderation bot for Discord
 
